@@ -1,6 +1,9 @@
 # IOS-FOOL-TO-DO
 描述IOS开发中遇到的问题以及解决问题的方法或网站
 
+## 本NOTE灵感来源
+[ios-学习资料整理](https://github.com/D-oil/trip-to-iOS/blob/master/README.md#ios-学习资料整理)
+
 ## 开发者中心相关
 
 ###企业开发账号问题
