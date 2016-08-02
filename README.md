@@ -12,7 +12,7 @@
 问题  |  简介  |  DEMO
 ----  |  ----  |  ----
 [在不改变设备方向的情况下，检测设备方向是否变化-answered Sep](http://stackoverflow.com/questions/4574693/ios-device-orientation-disregarding-orientation-lock/12248095#12248095)  |  通过coremotion检测系统方向的变化，即便系统是锁定状态也能获取到方向变化，可以观察相机竖屏到横屏切换效果，有时候可能希望UI像相机那样切换，这个方式很好。 | demo-------deviceChangeOrientation
-
+[设置屏幕方向的两种方法:1.改变transform 2.强制性的旋转](http://blog.csdn.net/starryheavens/article/details/8083644)  |  [设置屏幕方向的两种方法:1.改变transform 2.强制性的旋转](http://blog.csdn.net/li_shuang_ls/article/details/51792578)  | 
 
 
 ## we're stupid but strong
